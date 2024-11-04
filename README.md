@@ -1,7 +1,7 @@
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=seizavl&show_icons=true&locale=en&count_private=true&theme=shadow_blue" alt="seizavl" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seizavl&layout=compact&show_icons=true&count_private=true&theme=shadow_blue" alt="seizavl" style="height: 195px;" />
+<div align="center" style="display: flex; gap: 15px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seizavl&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="seizavl" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seizavl&layout=compact&show_icons=true&count_private=true&theme=tokyonight" alt="seizavl" style="height: 195px;" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
