@@ -1,5 +1,8 @@
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seizavl&show_icons=true&locale=en" alt="seizavl"/></p>
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seizavl&show_icons=true&locale=en&count_private=true&theme=dracula" alt="seizavl" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seizavl&layout=compact&show_icons=true&count_private=true&theme=dracula" alt="seizavl" style="height: 195px;" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
